@@ -1,10 +1,10 @@
-# ⚡ TaskFlow — Team Task Management App
+#  TaskFlow — Team Task Management App
 
 A full-stack Kanban-style task management platform built with React.js, Node.js, Express, MongoDB, and JWT authentication.
 
 ---
 
-## 🗂 Project Structure
+##  Project Structure
 
 ```
 taskflow/
@@ -30,7 +30,7 @@ taskflow/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js v18+
@@ -89,7 +89,7 @@ Frontend runs at: **http://localhost:3000**
 
 ---
 
-## 🔌 API Endpoints (12 total)
+##  API Endpoints (12 total)
 
 ### Auth
 | Method | Endpoint | Description |
@@ -124,19 +124,19 @@ Frontend runs at: **http://localhost:3000**
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🔐 **JWT Authentication** — Register/Login with secure token-based auth
-- 👥 **Role-Based Access** — Admin and Member roles per project
-- 📋 **Kanban Board** — Drag-and-drop tasks across columns using `@hello-pangea/dnd`
-- 🏷 **Task Management** — Title, description, priority, assignee, due date, tags
-- 🎨 **Project Colors** — Color-coded projects for quick identification
-- 📱 **Responsive** — Works on desktop and mobile
-- 🌙 **Dark Theme** — Clean dark UI throughout
+-  **JWT Authentication** — Register/Login with secure token-based auth
+-  **Role-Based Access** — Admin and Member roles per project
+-  **Kanban Board** — Drag-and-drop tasks across columns using `@hello-pangea/dnd`
+-  **Task Management** — Title, description, priority, assignee, due date, tags
+-  **Project Colors** — Color-coded projects for quick identification
+-  **Responsive** — Works on desktop and mobile
+-  **Dark Theme** — Clean dark UI throughout
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 **Frontend:** React.js 18, React Router v6, Context API, @hello-pangea/dnd, Axios, react-hot-toast, date-fns
 
@@ -148,7 +148,7 @@ Frontend runs at: **http://localhost:3000**
 
 ---
 
-## 🚢 Deployment
+##  Deployment
 
 ### Deploy Backend to Render
 1. Push backend folder to GitHub
@@ -165,11 +165,11 @@ Frontend runs at: **http://localhost:3000**
 
 ---
 
-## 📝 Default Kanban Columns
+##  Default Kanban Columns
 
 Each new project starts with 4 columns:
 - **Todo** → **In Progress** → **In Review** → **Done**
 
 ---
 
-Built with ❤️ by Avinash Kamble
+Built with by Avinash Kamble
